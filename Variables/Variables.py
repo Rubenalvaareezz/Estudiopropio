@@ -1,5 +1,5 @@
 numero = 10
-numero += 10 #El += lo que hace es añadir al número que ya teníamos definido el que hya detrás del igual
+numero += 10 #El += lo que hace es añadir al número que ya teníamos definido el que hay detrás del igual
 print(numero)
 
 #Definiendo una variable con CamelCase
@@ -26,5 +26,6 @@ print("jorge" not in Bienevenida)# Sale true porque es cierto de que no esta en 
 
 
 #del Bienevenida, elimina datos como la variable bienvenida, pero se tiene que poner debajo de lo que se quiere eliminar
+
 
 
